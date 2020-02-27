@@ -1,0 +1,3 @@
+Bundle-Name: userver-service-hook
+Bundle-SymbolicName: userver.service.hook
+Bundle-Version: 1.0.0
